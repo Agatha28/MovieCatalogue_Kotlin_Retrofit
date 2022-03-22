@@ -32,7 +32,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="16dp"
                 android:layout_marginTop="16dp"
-                android:text="Movie Catalogue"
+                android:text="Hi, Movies App"
                 android:textColor="@color/white"
                 android:textSize="30sp"
                 android:textStyle="bold" />
