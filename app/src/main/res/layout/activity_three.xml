@@ -8,6 +8,7 @@
     tools:context=".ThreeActivity">
 
     <ImageView
+        android:contentDescription="@string/app_name"
         android:id="@+id/imageView"
         android:layout_width="170dp"
         android:layout_height="170dp"
@@ -44,7 +45,7 @@
 
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnStartPageThree"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
